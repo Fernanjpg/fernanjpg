@@ -5,7 +5,7 @@ I am a self-taught developer passionate about building technology and continuous
 ## 🚀 About Me
 * 🤝 **Team Player:** I work best when collaborating, sharing ideas, and learning from others.
 * 📚 **Self-Taught:** Driven by curiosity and the discipline to learn new tech independently.
-* 🎯 **Interests:** Deeply interested in **Cybersecurity**, **Data Analysis**, and **Artificial Intelligence**.
+* 🎯 **Interests:** Deeply interested in **Cybersecurity** and **Artificial Intelligence**.
 
 ## 🛠️ Current Focus
 * 🐍 Currently diving deep into **Python** to power my projects in data and security.
